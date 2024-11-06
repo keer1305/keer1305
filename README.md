@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I am Keerthana 
+
+Welcome to my GitHub profile! I’m a current grduate student at University of Delaware and aspiring to be a Data Analyst with a passion for data analysis and modelling. I love building innovative projects and learning new technologies to enhance my skills and make an impact.
+
+🎓 Education: Graduate student in MS in Business Analytics at University of Delaware.
+🔍 Interests: Data engineering, Machine Learning
+💡 Currently working on Python project 
+
+
+🖥️ Technical Stack
+Here’s a rundown of the tools and technologies I work with regularly:
+
+Languages: Python, SQL, R , Scala
+Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow
+Visualization: Tableau, Power BI, Matplotlib,  Qlikview
+Others: Git, Docker, Jupyter Notebook
+
+
+🌱 Currently Learning
+I’m always working to improve my knowledge and keep up with the latest tech. Currently focusing on:
+
+Deepening skills in: Machine Learning, Data Engineering, NLP
+New tools: Apache Spark, AWS for cloud-based data processing
 
 <!--
 **keer1305/keer1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
