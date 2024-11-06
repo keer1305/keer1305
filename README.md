@@ -40,6 +40,9 @@ Portfolio:
 Hobbies:  hiking, painting, or Badminton.
 
 
+Open for Jobs
+
+
 
 <!--
 **keer1305/keer1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
