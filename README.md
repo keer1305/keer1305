@@ -27,6 +27,20 @@ I’m always working to improve my knowledge and keep up with the latest tech. C
 Deepening skills in: Machine Learning, Data Engineering, NLP
 New tools: Apache Spark, AWS for cloud-based data processing
 
+
+💬 Get in Touch
+Let’s connect and talk about projects, opportunities, or just tech in general!
+
+Email: 13keerthana@gmail.com
+LinkedIn: 
+Portfolio: 
+
+
+🌐 Fun Facts
+Hobbies:  hiking, painting, or Badminton.
+
+
+
 <!--
 **keer1305/keer1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
