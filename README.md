@@ -2,7 +2,7 @@
 
 I am Keerthana 
 
-Welcome to my GitHub profile! I’m a current grduate student at University of Delaware and aspiring to be a Data Analyst with a passion for data analysis and modelling. I love building innovative projects and learning new technologies to enhance my skills and make an impact.
+Welcome to my GitHub profile! I’m a current grduate student at University of Delaware and aspiring to be a Data Engineer with a passion for data analysis and modelling. I love building innovative projects and learning new technologies to enhance my skills and make an impact.
 
 
 🎓 Education: Graduate student in MS in Business Analytics at University of Delaware.
