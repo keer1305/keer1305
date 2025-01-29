@@ -15,9 +15,10 @@ Welcome to my GitHub profile! I’m a current grduate student at University of D
 Here’s a rundown of the tools and technologies I work with regularly:
 
 Languages: Python, SQL, R , Scala
-Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow
-Visualization: Tableau, Power BI, Matplotlib,  Qlikview
-Others: Git, Docker, Jupyter Notebook
+Big Data: Hadoop, Spark 
+Data Science: Pandas, NumPy, Scikit-Learn
+Visualization: Tableau, Power BI, Matplotlib
+Others: Git,  Jupyter Notebook
 
 
 
