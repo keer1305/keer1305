@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Keerthana 
+I am Keerthana Sathiyamoorthy
 
 Welcome to my GitHub profile! I’m a current grduate student at University of Delaware and aspiring to be a Data Engineer with a passion for data analysis and modelling. I love building innovative projects and learning new technologies to enhance my skills and make an impact.
 
@@ -16,25 +16,26 @@ Here’s a rundown of the tools and technologies I work with regularly:
 
 Languages: Python, SQL, R , Scala
 Big Data: Hadoop, Spark 
-Data Science: Pandas, NumPy, Scikit-Learn
+Data Science: Pandas, NumPy, Polars
+Database: HDFS, ETL, Alteryx
 Visualization: Tableau, Power BI, Matplotlib
-Others: Git,  Jupyter Notebook
+Others: Git,  Jupyter Notebook, Colab, JIRA
 
 
 
 🌱 Currently Learning
 I’m always working to improve my knowledge and keep up with the latest tech. Currently focusing on:
 
-Deepening skills in: Machine Learning, Data Engineering, NLP
-New tools: Apache Spark, AWS for cloud-based data processing
+Deepening skills in: Data Engineering, NLP
+New tools: AWS for cloud-based data processing
 
 
 💬 Get in Touch
 Let’s connect and talk about projects, opportunities, or just tech in general!
 
 Email: 13keerthana@gmail.com
-LinkedIn: 
-Portfolio: 
+LinkedIn: https://www.linkedin.com/in/keerthana-sathiyamoorthy/
+Portfolio: https://13keerthana.wixsite.com/keerthana-sathiyamoo 
 
 
 🌐 Fun Facts
